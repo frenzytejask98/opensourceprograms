@@ -17,27 +17,35 @@ There has been a huge buzz about GSoC over the past few months. Everyone is busy
 I am sure, every open source developer is aware of GSoC, if not please refer: https://summerofcode.withgoogle.com because I won’t be talking about it anymore than I already have. In this post I want to touch upon various such programs (like GSoC) offered by organizations to promote this revolutionary collaboration from individuals across the globe. Below are the list of some open source mentorship programs:
 
 Free Software Foundation Internship
+
 As an intern, you work closely with FSF staff members in your area of interest, such as campaign and community organizing, free software licensing, systems and network administration, GNU project support, or web development.
 
 Google Code-in
+
 Pre-university students ages 13 to 17 are invited to take part in Google Code-in, our global, online contest introducing teenagers to the world of open source. With a wide variety of bite-sized tasks, it’s easy for beginners to jump in and get started no matter what skills they have. Mentors from our participating organizations lend a helping hand as participants learn what it’s like to work on an open source project.
 
 Mozilla Winter of Security
+
 The Winter of Security (MWOS) is a program organized by Mozilla’s Security teams to involve students with Security projects.
 
 Outreachy
+
 Outreachy helps people from groups underrepresented in free and open source software get involved. We provide a supportive community for beginning to contribute any time throughout the year and offer focused internship opportunities twice a year with a number of free software organizations.
 
 Rails Girls Summer of Code
-With our fellowship program we aim to foster diversity in Open Source since 2013. Selected teams receive a three-month scholarship to work on Open Source projects of their choice.
+
+Selected teams receive a three-month scholarship to work on Open Source projects of their choice.
 
 Season of KDE 2015
+
 Season of KDE is a community outreach program, much like Google Summer of Code that has been hosted by the KDE community.
 
 Tor Summer of Privacy
+
 So we decided to launch our first Tor Summer of Privacy! A program to grow and guarantee support for students who want to collaborate with privacy tools.
 
 The X.Org Endless Vacation of Code
+
 The basic terms and conditions of this program are quite similar to Google’s GSoC. The key differences are that:
 
 an EVoC mentorship can be initiated at any time during the calendar year,
